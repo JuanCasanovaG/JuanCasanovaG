@@ -7,7 +7,7 @@ QA Engineer Jr. | Licenciado en Ciencias de la Tierra en formación.
 
 - 👀 I’m interested in Science: Astrophysics & Astronomy 🌌  
 - 🌱 I currently manage and continue to learn Python, MATLAB and JavaScript for QA and Data Science. 🐍📊  
-- 💞️ I’m looking to collaborate on QA automation, open-source scientific computing, data-driven research projects and game development 🎮 — aunque estoy listo para sumergirme en cualquier sector IT donde pueda poner a prueba mis habilidades técnicas y blandas, y seguir creciendo en el mundo de la tecnología. 🤝   
+- 💞️ I’m looking to collaborate on QA automation, open-source scientific computing, data-driven research projects and game development 🎮 — although I am ready to dive into any IT sector where I can put my technical and soft skills to the test, and continue to grow in the world of technology. 🤝   
 
 ---
 
@@ -35,11 +35,10 @@ QA Engineer Jr. | Licenciado en Ciencias de la Tierra en formación.
 
 - ✉️ Email: [casanovag96@gmail.com](mailto:casanovag96@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/juan-casanova-garcia](https://www.linkedin.com/in/juan-casanova-garcia)  
-- 🔗 Website/Portfolio: N/a 
 
 ---
 
-> “La calidad no es un acto, es un hábito.” – Inspirado en mis estudios y pasión por el cosmos.
+> “La calidad no es un acto, es un hábito.” – “La calidad no se añade al final, se construye en cada línea.”
 
                                        
 
