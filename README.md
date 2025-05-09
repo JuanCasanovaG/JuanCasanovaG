@@ -22,6 +22,7 @@ QA Engineer Jr. | Licenciado en Ciencias de la Tierra en formación.
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-FFD43B?style=for-the-badge&logo=pytest&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-0052CC?style=for-the-badge&logo=charlesproxy&logoColor=white)
