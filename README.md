@@ -1,7 +1,8 @@
 ![Banner de Juan Casanova García](https://github.com/user-attachments/assets/64f43893-df08-494a-bfb3-b8dccfdb9496)
-
-# 👋 Hi, I’m Juan Casanova Garcia
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+# 👋 Hi, I’m Juan Casanova Garcia
+
+
 QA Engineer Jr. | Licenciado en Ciencias de la Tierra en formación.  
 “Transformando datos en descubrimientos” 🔭
 
